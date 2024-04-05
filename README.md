@@ -1,0 +1,1 @@
+This code was written by Erich MacLean, B. ENG at the University of Guelph, for CIS 6180, Big Data Analysis. The code is designed to run on a 16Gb PC, but there are options and settings built in to run for higher or lower memory resources. Any suggestions, changes, questions or improvements are welcome. Please contact emacle05@uoguelph.ca for notice.
